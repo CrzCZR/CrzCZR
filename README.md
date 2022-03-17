@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CrzCZR
-- 👀 I’m interested in ...
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me cezar.negrila@yahoo.com
